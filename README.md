@@ -100,8 +100,3 @@ O projeto utiliza o MongoDB como banco de dados. O serviço MongoDB é configura
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-```
